@@ -9,6 +9,9 @@ Created by Chris Waigl on 2014-04-20.
 
 [2014-04-20] Refactoring original landsatutils.py, as MTL file format is
 also used by Hyperion and ALI.
+
+U:\04_Programming\20_GitHub\pygaarst\pygaarst\mtlutils.py
+
 """
 
 from __future__ import division
